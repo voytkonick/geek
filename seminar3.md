@@ -8,3 +8,5 @@
 
 * Изображения указываются следующий образом
 ![image](ДЗ.png)
+
+Djn nfr djn ghjcnj hf,jnfnm c afqkfvb bpj
